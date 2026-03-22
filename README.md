@@ -8,6 +8,6 @@
 3. Teste
 
 Lista de tarefas
-- [] Criar a pag principal
-- [] Receber
-- [] Final
+- [ ] Criar a pag principal
+- [ ] Receber
+- [x] Final
