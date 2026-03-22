@@ -1,6 +1,9 @@
-# Olá, mundo!
-Primeiro repositorio do curso ***Git* e *GitHub***
+# Primeiro repositorio do curso __*Git* e *GitHub*__
 
-Essa linha coloquei direto pelo site
-
-
+### Essa linha coloquei direto pelo site
+---
+1. Teste
+   1. sub
+   2. sub2
+3. Teste
+4. Teste
